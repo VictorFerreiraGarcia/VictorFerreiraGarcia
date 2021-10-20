@@ -5,6 +5,9 @@
 </div>
 <img src="https://i.ibb.co/wpvt4d6/Whats-App-Image-2021-07-06-at-15-26-04.jpg"/>
 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerreiraGarcia&layout=compact&langs_count=7&theme=great-gatsby"/>
+
+
   
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
